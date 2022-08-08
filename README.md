@@ -1,5 +1,5 @@
 # [Time-aware Self-Attention Meets Logic Reasoning in Recommender Systems](https://)
-_Zhijian Luo, Zihan Huang, Jiahui Tang, Yueen Hou and Yanzeng Gao_
+Zhijian Luo, Zihan Huang, Jiahui Tang, Yueen Hou and Yanzeng Gao \
 Robot and Artificial Intelligence Lab, Jiaying University, China
 
 
